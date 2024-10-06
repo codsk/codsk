@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 💬 Ask me about **react, JS, express, nodeJS, mongodb**
+- 💬 Ask me about **React, Express, NodeJS, Mongodb**
 
 - 📫 How to reach me **codsk987@gmail.com**
 
